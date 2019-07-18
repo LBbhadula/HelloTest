@@ -40,7 +40,7 @@
 	<distributionManagement>
 		<snapshotRepository>
 			<id>FirstDevopsProject</id>
-			<url>http://localhost:8089/repository/maven-snapshots/</url>
+			<url>http://localhost:8089/repository/FirstDevopsProject/</url>
 		</snapshotRepository>
 	</distributionManagement>
 	<build>
@@ -54,3 +54,4 @@
 	</build>
 
 </project>
+
